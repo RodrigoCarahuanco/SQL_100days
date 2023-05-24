@@ -37,4 +37,6 @@ INSERT INTO Doctor(nombre) VALUES ('');
 
 
 -- En este caso especial vamos a eliminar una tabla
+DROP TABLE Consulta;
+
 
